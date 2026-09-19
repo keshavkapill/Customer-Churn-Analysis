@@ -1,6 +1,4 @@
-Here is the complete, properly formatted Markdown code for your `README.md` file. You can copy this code block directly and replace the contents of your `README.md` file in your repository:
 
-```markdown
 <div align="center">
 
 # 📊 CUSTOMER CHURN ANALYSIS
